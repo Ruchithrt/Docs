@@ -17,7 +17,7 @@ Docs is your go-to solution for dynamic note-taking, allowing you to stay organi
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/Docs.git
+   git clone https://github.com/Ruchithrt/Docs.git
 
 2. **Navigate to the project directory:**
    ```bash
